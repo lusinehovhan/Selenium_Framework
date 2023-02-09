@@ -1,0 +1,444 @@
+2023-02-07 11:46:43,185 INFO  [main] Login page opened
+2023-02-07 11:46:45,133 INFO  [main] Login performed
+2023-02-07 12:48:26,450 INFO  [main] Login page opened
+2023-02-07 12:49:43,748 INFO  [main] Login page opened
+2023-02-07 12:51:32,026 INFO  [main] Login page opened
+2023-02-07 12:51:34,813 INFO  [main] Login performed
+2023-02-07 13:04:05,902 INFO  [main] Login page opened
+2023-02-07 13:04:09,272 INFO  [main] Login performed
+2023-02-07 13:05:41,968 INFO  [main] Login page opened
+2023-02-07 13:05:43,473 INFO  [main] Login performed
+2023-02-07 13:15:17,867 INFO  [main] Login page opened
+2023-02-07 13:15:22,295 INFO  [main] Login performed
+2023-02-07 15:13:45,765 INFO  [main] Login page opened
+2023-02-07 15:13:47,375 INFO  [main] Login performed
+2023-02-07 15:14:41,341 INFO  [main] Login page opened
+2023-02-07 15:14:44,465 INFO  [main] Login performed
+2023-02-07 15:19:28,466 INFO  [main] Login page opened
+2023-02-07 15:19:31,424 INFO  [main] Login performed
+2023-02-07 15:21:04,355 INFO  [main] Login page opened
+2023-02-07 15:21:07,860 INFO  [main] Login performed
+2023-02-07 15:22:34,026 INFO  [main] Login page opened
+2023-02-07 15:22:36,541 INFO  [main] Login performed
+2023-02-07 15:22:46,605 INFO  [main] Selected Item number: 3
+2023-02-07 15:24:15,598 INFO  [main] Login page opened
+2023-02-07 15:24:17,664 INFO  [main] Login performed
+2023-02-07 15:24:52,361 INFO  [main] Login page opened
+2023-02-07 15:24:56,365 INFO  [main] Login performed
+2023-02-07 15:27:33,815 INFO  [main] Login page opened
+2023-02-07 15:27:37,161 INFO  [main] Login performed
+2023-02-07 15:27:44,920 INFO  [main] Selected Item number: 3
+2023-02-07 15:42:40,563 INFO  [main] Login page opened
+2023-02-07 15:42:44,534 INFO  [main] Login performed
+2023-02-07 15:42:56,546 INFO  [main] Selected Item number: 3
+2023-02-07 15:49:18,425 INFO  [main] Login page opened
+2023-02-07 15:49:21,638 INFO  [main] Login performed
+2023-02-07 15:49:30,816 INFO  [main] Selected Item number: 3
+2023-02-07 15:51:40,058 INFO  [main] Login page opened
+2023-02-07 15:51:42,998 INFO  [main] Login performed
+2023-02-07 15:51:50,848 INFO  [main] Selected Item number: 3
+2023-02-07 15:53:18,927 INFO  [main] Login page opened
+2023-02-07 15:53:22,420 INFO  [main] Login performed
+2023-02-07 15:53:30,280 INFO  [main] Selected Item number: 1
+2023-02-07 15:56:43,831 INFO  [main] Login page opened
+2023-02-07 15:56:46,927 INFO  [main] Login performed
+2023-02-07 15:56:56,474 INFO  [main] Selected Item number: 3
+2023-02-07 15:57:44,921 INFO  [main] Login page opened
+2023-02-07 15:57:46,986 INFO  [main] Login performed
+2023-02-07 15:57:56,219 INFO  [main] Selected Item number: 3
+2023-02-07 15:59:51,077 INFO  [main] Login page opened
+2023-02-07 15:59:54,328 INFO  [main] Login performed
+2023-02-07 16:00:02,252 INFO  [main] Selected Item number: 3
+2023-02-07 16:08:55,296 INFO  [main] Login page opened
+2023-02-07 16:08:56,857 INFO  [main] Login performed
+2023-02-07 16:09:19,813 INFO  [main] Selected Item number: 3
+2023-02-07 16:11:48,704 INFO  [main] Login page opened
+2023-02-07 16:11:52,228 INFO  [main] Login performed
+2023-02-07 16:12:02,565 INFO  [main] Selected Item number: 3
+2023-02-07 16:13:54,129 INFO  [main] Login page opened
+2023-02-07 16:13:55,885 INFO  [main] Login performed
+2023-02-07 16:14:05,908 INFO  [main] Selected Item number: 3
+2023-02-07 16:22:12,861 INFO  [main] Login page opened
+2023-02-07 16:22:14,380 INFO  [main] Login performed
+2023-02-07 16:22:25,123 INFO  [main] Selected Item number: 3
+2023-02-07 16:23:18,963 INFO  [main] Login page opened
+2023-02-07 16:23:22,337 INFO  [main] Login performed
+2023-02-07 16:23:33,603 INFO  [main] Selected Item number: 3
+2023-02-07 16:26:56,669 INFO  [main] Login page opened
+2023-02-07 16:27:00,328 INFO  [main] Login performed
+2023-02-07 16:27:09,299 INFO  [main] Selected Item number: 3
+2023-02-07 16:31:48,531 INFO  [main] Login page opened
+2023-02-07 16:31:51,931 INFO  [main] Login performed
+2023-02-07 16:31:59,873 INFO  [main] Selected Item number: 3
+2023-02-07 16:33:44,376 INFO  [main] Login page opened
+2023-02-07 16:33:45,978 INFO  [main] Login performed
+2023-02-07 16:33:55,940 INFO  [main] Selected Item number: 3
+2023-02-07 16:37:11,284 INFO  [main] Login page opened
+2023-02-07 16:37:13,650 INFO  [main] Login performed
+2023-02-07 16:37:24,708 INFO  [main] Selected Item number: 3
+2023-02-07 16:39:19,807 INFO  [main] Login page opened
+2023-02-07 16:39:21,689 INFO  [main] Login performed
+2023-02-07 16:39:31,755 INFO  [main] Selected Item number: 3
+2023-02-07 16:40:26,995 INFO  [main] Login page opened
+2023-02-07 16:40:29,689 INFO  [main] Login performed
+2023-02-07 16:40:40,590 INFO  [main] Selected Item number: 3
+2023-02-07 16:42:05,416 INFO  [main] Login page opened
+2023-02-07 16:42:09,507 INFO  [main] Login performed
+2023-02-07 16:42:17,761 INFO  [main] Selected Item number: 3
+2023-02-07 16:50:27,415 INFO  [main] Login page opened
+2023-02-07 16:50:30,921 INFO  [main] Login performed
+2023-02-07 16:50:39,460 INFO  [main] Selected Item name: 
+Avon Rare Gold Eau de Parfume/ 50ml by Vetrarian
+2023-02-07 16:50:39,541 INFO  [main] Selected Item price: $17.14
+2023-02-07 16:55:32,029 INFO  [main] Login page opened
+2023-02-07 16:55:35,359 INFO  [main] Login performed
+2023-02-07 16:55:43,149 INFO  [main] Selected Item name: 
+Avon Rare Gold Eau de Parfume/ 50ml by Vetrarian
+2023-02-07 16:55:43,227 INFO  [main] Selected Item price: $17.14
+2023-02-07 16:57:05,034 INFO  [main] Login page opened
+2023-02-07 16:57:08,967 INFO  [main] Login performed
+2023-02-07 16:57:22,638 INFO  [main] Selected Item name: 
+Avon Rare Gold Eau de Parfume/ 50ml by Vetrarian
+2023-02-07 16:57:22,710 INFO  [main] Selected Item price: $17.14
+2023-02-07 16:58:07,010 INFO  [main] Login page opened
+2023-02-07 16:58:10,617 INFO  [main] Login performed
+2023-02-07 16:58:18,881 INFO  [main] Selected Item name: 
+Avon Rare Gold Eau de Parfume/ 50ml by Vetrarian
+2023-02-07 16:58:18,966 INFO  [main] Selected Item price: $17.14
+2023-02-07 16:58:59,020 INFO  [main] Login page opened
+2023-02-07 16:59:01,973 INFO  [main] Login performed
+2023-02-07 16:59:09,406 INFO  [main] Selected Item name: 
+Tory Burch Divine Moon Eau De Parfume Sample Spray Women Perfume 1.5 ml / 0.05 oz (set of 3)
+2023-02-07 16:59:09,476 INFO  [main] Selected Item price: $18.50
+2023-02-07 17:04:40,284 INFO  [main] Login page opened
+2023-02-07 17:04:43,302 INFO  [main] Login performed
+2023-02-07 17:04:49,779 INFO  [main] Selected Item name: 
+Tom Ford Tuscan Leather Eau De Parfume Spray for Men, 1.7 Ounce
+2023-02-07 17:04:49,844 INFO  [main] Selected Item price: $265.00
+2023-02-07 17:05:12,459 INFO  [main] Login page opened
+2023-02-07 17:05:15,301 INFO  [main] Login performed
+2023-02-07 17:05:21,797 INFO  [main] Selected Item name: 
+Tom Ford Tuscan Leather Eau De Parfume Spray for Men, 1.7 Ounce
+2023-02-07 17:05:21,863 INFO  [main] Selected Item price: $265.00
+2023-02-07 17:06:16,665 INFO  [main] Login page opened
+2023-02-07 17:06:18,199 INFO  [main] Login performed
+2023-02-07 17:06:35,516 INFO  [main] Selected Item name: 
+Avon Rare Gold Eau de Parfume/ 50ml by Vetrarian
+2023-02-07 17:06:35,576 INFO  [main] Selected Item price: $17.14
+2023-02-07 17:07:14,169 INFO  [main] Login page opened
+2023-02-07 17:07:17,168 INFO  [main] Login performed
+2023-02-07 17:07:30,222 INFO  [main] Selected Item name: 
+Tory Burch Divine Moon Eau De Parfume Sample Spray Women Perfume 1.5 ml / 0.05 oz (set of 3)
+2023-02-07 17:07:30,279 INFO  [main] Selected Item price: $18.50
+2023-02-07 17:08:27,177 INFO  [main] Login page opened
+2023-02-07 17:08:28,864 INFO  [main] Login performed
+2023-02-07 17:08:43,051 INFO  [main] Selected Item name: 
+Hugo Boss BOSS Bottled Eau de Parfum
+2023-02-07 17:08:43,121 INFO  [main] Selected Item price: $.
+2023-02-07 17:42:03,777 INFO  [main] Login page opened
+2023-02-07 17:42:05,948 INFO  [main] Login performed
+2023-02-07 17:42:11,064 INFO  [main] Selected Item name: 
+Hugo Boss BOSS Bottled Eau de Parfum
+2023-02-07 17:42:11,132 INFO  [main] Selected Item price: $92.00
+2023-02-07 17:43:14,869 INFO  [main] Login page opened
+2023-02-07 17:43:18,554 INFO  [main] Login performed
+2023-02-07 17:43:21,490 INFO  [main] Selected Item name: 
+Hugo Boss BOSS Bottled Eau de Parfum
+2023-02-07 17:43:21,613 INFO  [main] Selected Item price: $$92.00
+2023-02-07 18:06:50,759 INFO  [main] Login page opened
+2023-02-07 18:06:54,309 INFO  [main] Login performed
+2023-02-07 18:07:13,680 INFO  [main] Login page opened
+2023-02-07 18:07:15,267 INFO  [main] Login performed
+2023-02-07 18:07:21,948 INFO  [main] Selected Item name: 
+TOCCA Eau de Parfum Florence 1.7 oz
+2023-02-07 18:08:30,207 INFO  [main] Login page opened
+2023-02-07 18:08:31,488 INFO  [main] Login performed
+2023-02-07 18:08:35,474 INFO  [main] Selected Item name: 
+Hugo Boss BOSS Bottled Eau de Parfum
+2023-02-07 18:08:35,560 INFO  [main] Selected Item price: $92.00
+2023-02-07 18:08:54,676 INFO  [main] Login page opened
+2023-02-07 18:08:56,630 INFO  [main] Login performed
+2023-02-07 18:09:01,317 INFO  [main] Selected Item name: 
+Hugo Boss BOSS Bottled Eau de Parfum
+2023-02-07 18:09:01,408 INFO  [main] Selected Item price: $92.00
+2023-02-07 18:10:32,520 INFO  [main] Login page opened
+2023-02-07 18:10:34,053 INFO  [main] Login performed
+2023-02-07 18:10:38,403 INFO  [main] Selected Item name: 
+Hugo Boss BOSS Bottled Eau de Parfum
+2023-02-07 18:10:38,487 INFO  [main] Selected Item price: $92.00
+2023-02-07 18:10:59,025 INFO  [main] Login page opened
+2023-02-07 18:11:02,864 INFO  [main] Login performed
+2023-02-07 18:11:05,416 INFO  [main] Selected Item name: 
+Hugo Boss BOSS Bottled Eau de Parfum
+2023-02-07 18:11:05,498 INFO  [main] Selected Item price: $92.00
+2023-02-07 18:30:12,252 INFO  [main] Login page opened
+2023-02-07 18:30:15,565 INFO  [main] Login performed
+2023-02-07 18:30:49,714 INFO  [main] Login page opened
+2023-02-07 18:30:51,183 INFO  [main] Login performed
+2023-02-07 18:30:56,049 INFO  [main] Selected Item name: 
+Tory Burch Divine Moon Eau De Parfume Sample Spray Women Perfume 1.5 ml / 0.05 oz (set of 3)
+2023-02-07 18:30:56,107 INFO  [main] Selected Item price: $18.50
+2023-02-07 18:47:02,970 INFO  [main] Login page opened
+2023-02-07 18:47:06,262 INFO  [main] Login performed
+2023-02-07 18:47:48,437 INFO  [main] Login page opened
+2023-02-07 18:49:30,408 INFO  [main] Login page opened
+2023-02-07 18:51:14,010 INFO  [main] Login page opened
+2023-02-07 18:54:54,094 INFO  [main] Login page opened
+2023-02-07 18:54:57,939 INFO  [main] Login performed
+2023-02-07 18:55:28,155 INFO  [main] Login page opened
+2023-02-07 18:55:31,639 INFO  [main] Login performed
+2023-02-07 18:58:57,418 INFO  [main] Login page opened
+2023-02-07 18:59:01,627 INFO  [main] Login performed
+2023-02-07 18:59:13,235 INFO  [main] Login page opened
+2023-02-07 18:59:14,845 INFO  [main] Login performed
+2023-02-07 18:59:20,319 INFO  [main] Selected Item name: 
+Tory Burch Divine Moon Eau De Parfume Sample Spray Women Perfume 1.5 ml / 0.05 oz (set of 3)
+2023-02-07 18:59:20,389 INFO  [main] Selected Item price: $18.50
+2023-02-08 12:53:00,549 INFO  [main] Login page opened
+2023-02-08 12:53:02,246 INFO  [main] Login performed
+2023-02-08 12:53:29,545 INFO  [main] Login page opened
+2023-02-08 12:53:33,086 INFO  [main] Login performed
+2023-02-08 12:53:35,397 INFO  [main] Selected Item name: 
+Franck Olivier Sun Royal Oud for Women Eau De Parfume Spray 2.5 Ounces
+2023-02-08 12:55:14,889 INFO  [main] Login page opened
+2023-02-08 12:55:17,816 INFO  [main] Login performed
+2023-02-08 12:55:20,102 INFO  [main] Selected Item name: 
+Franck Olivier Sun Royal Oud for Women Eau De Parfume Spray 2.5 Ounces
+2023-02-08 12:58:36,701 INFO  [main] Login page opened
+2023-02-08 12:58:39,597 INFO  [main] Login performed
+2023-02-08 12:58:42,117 INFO  [main] Selected Item name: 
+Hugo Boss Bottled Night Eau De Toilette
+2023-02-08 12:58:42,182 INFO  [main] Selected Item price: $104.00
+2023-02-08 12:59:13,861 INFO  [main] Login page opened
+2023-02-08 12:59:16,171 INFO  [main] Login performed
+2023-02-08 12:59:20,451 INFO  [main] Selected Item name: 
+philosophy pure grace
+2023-02-08 12:59:20,580 INFO  [main] Selected Item price: $64.00
+2023-02-08 13:02:12,988 INFO  [main] Login page opened
+2023-02-08 13:02:14,365 INFO  [main] Login performed
+2023-02-08 13:02:18,923 INFO  [main] Selected Item name: 
+Hugo Boss Bottled Night Eau De Toilette
+2023-02-08 13:02:19,016 INFO  [main] Selected Item price: $104.00
+2023-02-08 13:19:34,162 INFO  [main] Login page opened
+2023-02-08 13:19:37,174 INFO  [main] Login performed
+2023-02-08 13:19:39,677 INFO  [main] Selected Item name: 
+Hugo Boss Bottled Night Eau De Toilette
+2023-02-08 13:19:39,733 INFO  [main] Selected Item price: $104.00
+2023-02-08 13:20:02,840 INFO  [main] Login page opened
+2023-02-08 13:20:06,123 INFO  [main] Login performed
+2023-02-08 13:20:08,677 INFO  [main] Selected Item name: 
+Hugo Boss Bottled Night Eau De Toilette
+2023-02-08 13:20:08,724 INFO  [main] Selected Item price: $104.00
+2023-02-08 13:21:05,804 INFO  [main] Login page opened
+2023-02-08 13:21:07,622 INFO  [main] Login performed
+2023-02-08 13:21:11,895 INFO  [main] Selected Item name: 
+Hugo Boss Bottled Night Eau De Toilette
+2023-02-08 13:21:11,966 INFO  [main] Selected Item price: $104.00
+2023-02-08 13:36:58,715 INFO  [main] Login page opened
+2023-02-08 13:37:02,474 INFO  [main] Login performed
+2023-02-08 13:37:05,129 INFO  [main] Selected Item name: 
+Tory Burch Divine Moon Eau De Parfume Sample Spray Women Perfume 1.5 ml / 0.05 oz (set of 3)
+2023-02-08 13:37:05,211 INFO  [main] Selected Item price: $18.50
+2023-02-08 13:43:41,319 INFO  [main] Login page opened
+2023-02-08 13:43:44,561 INFO  [main] Login performed
+2023-02-08 13:43:47,349 INFO  [main] Selected Item name: 
+Avon Rare Gold Eau de Parfume/ 50ml by Vetrarian
+2023-02-08 13:43:47,400 INFO  [main] Selected Item price: $17.11
+2023-02-08 13:49:53,998 INFO  [main] Login page opened
+2023-02-08 13:49:55,449 INFO  [main] Login performed
+2023-02-08 13:49:59,848 INFO  [main] Selected Item name: 
+Tory Burch Divine Moon Eau De Parfume Sample Spray Women Perfume 1.5 ml / 0.05 oz (set of 3)
+2023-02-08 13:49:59,902 INFO  [main] Selected Item price: $18.50
+2023-02-08 13:50:30,881 INFO  [main] Login page opened
+2023-02-08 13:50:32,672 INFO  [main] Login performed
+2023-02-08 13:50:37,096 INFO  [main] Selected Item name: 
+Tory Burch Divine Moon Eau De Parfume Sample Spray Women Perfume 1.5 ml / 0.05 oz (set of 3)
+2023-02-08 13:50:37,214 INFO  [main] Selected Item price: $18.50
+2023-02-08 14:02:29,965 INFO  [main] Login page opened
+2023-02-08 14:02:31,136 INFO  [main] Login performed
+2023-02-08 14:02:35,132 INFO  [main] Selected Item name: 
+Franck Olivier Sun Royal Oud for Women Eau De Parfume Spray 2.5 Ounces
+2023-02-08 14:02:53,756 INFO  [main] Login page opened
+2023-02-08 14:02:55,238 INFO  [main] Login performed
+2023-02-08 14:02:59,059 INFO  [main] Selected Item name: 
+J'Adore Women Eau De Parfume Spray by Christian Dior, 1.7 Ounce
+2023-02-08 14:02:59,114 INFO  [main] Selected Item price: $64.00
+2023-02-08 14:04:02,521 INFO  [main] Login page opened
+2023-02-08 14:04:06,385 INFO  [main] Login performed
+2023-02-08 14:04:09,015 INFO  [main] Selected Item name: 
+Hugo Boss Bottled Infinite Eau De Parfum
+2023-02-08 14:04:09,063 INFO  [main] Selected Item price: $116.00
+2023-02-08 14:04:35,421 INFO  [main] Login page opened
+2023-02-08 14:04:36,992 INFO  [main] Login performed
+2023-02-08 14:04:41,479 INFO  [main] Selected Item name: 
+Hugo Boss Bottled Infinite Eau De Parfum
+2023-02-08 14:04:41,577 INFO  [main] Selected Item price: $116.00
+2023-02-08 14:05:05,304 INFO  [main] Login page opened
+2023-02-08 14:05:08,252 INFO  [main] Login performed
+2023-02-08 14:05:10,740 INFO  [main] Selected Item name: 
+Hugo Boss Bottled Infinite Eau De Parfum
+2023-02-08 14:05:10,813 INFO  [main] Selected Item price: $116.00
+2023-02-08 14:08:09,980 INFO  [main] Login page opened
+2023-02-08 14:08:13,078 INFO  [main] Login performed
+2023-02-08 14:08:15,441 INFO  [main] Selected Item name: 
+Hugo Boss Bottled Infinite Eau De Parfum
+2023-02-08 14:08:15,506 INFO  [main] Selected Item price: $116.00
+2023-02-08 14:08:31,912 INFO  [main] Login page opened
+2023-02-08 14:08:33,665 INFO  [main] Login performed
+2023-02-08 14:08:37,853 INFO  [main] Selected Item name: 
+Hugo Boss Bottled Infinite Eau De Parfum
+2023-02-08 14:08:37,901 INFO  [main] Selected Item price: $116.00
+2023-02-08 14:10:04,578 INFO  [main] Login page opened
+2023-02-08 14:10:06,826 INFO  [main] Login performed
+2023-02-08 14:10:10,931 INFO  [main] Selected Item name: 
+Hugo Boss Bottled Infinite Eau De Parfum
+2023-02-08 14:10:10,992 INFO  [main] Selected Item price: $116.00
+2023-02-08 14:10:31,837 INFO  [main] Login page opened
+2023-02-08 14:10:35,101 INFO  [main] Login performed
+2023-02-08 14:10:37,635 INFO  [main] Selected Item name: 
+Hugo Boss Bottled Infinite Eau De Parfum
+2023-02-08 14:10:37,698 INFO  [main] Selected Item price: $116.00
+2023-02-08 14:17:30,277 INFO  [main] Login page opened
+2023-02-08 14:17:32,917 INFO  [main] Login performed
+2023-02-08 14:17:38,897 INFO  [main] Selected Item name: 
+Hugo Boss Bottled Infinite Eau De Parfum
+2023-02-08 14:17:39,002 INFO  [main] Selected Item price: $116.00
+2023-02-08 14:18:59,166 INFO  [main] Login page opened
+2023-02-08 14:19:02,425 INFO  [main] Login performed
+2023-02-08 14:19:04,998 INFO  [main] Selected Item name: 
+Hugo Boss Bottled Infinite Eau De Parfum
+2023-02-08 14:19:05,043 INFO  [main] Selected Item price: $116.00
+2023-02-08 14:20:24,910 INFO  [main] Login page opened
+2023-02-08 14:20:27,896 INFO  [main] Login performed
+2023-02-08 14:20:31,054 INFO  [main] Selected Item name: 
+Hugo Boss Bottled Infinite Eau De Parfum
+2023-02-08 14:20:31,104 INFO  [main] Selected Item price: $116.00
+2023-02-08 14:22:04,424 INFO  [main] Login page opened
+2023-02-08 14:22:06,038 INFO  [main] Login performed
+2023-02-08 14:22:11,313 INFO  [main] Selected Item name: 
+Hugo Boss Bottled Infinite Eau De Parfum
+2023-02-08 14:22:11,359 INFO  [main] Selected Item price: $116.00
+2023-02-08 14:22:41,402 INFO  [main] Login page opened
+2023-02-08 14:22:44,953 INFO  [main] Login performed
+2023-02-08 14:22:47,381 INFO  [main] Selected Item name: 
+Hugo Boss Bottled Infinite Eau De Parfum
+2023-02-08 14:22:47,434 INFO  [main] Selected Item price: $116.00
+2023-02-08 14:24:11,166 INFO  [main] Login page opened
+2023-02-08 14:24:14,201 INFO  [main] Login performed
+2023-02-08 14:24:16,731 INFO  [main] Selected Item name: 
+Hugo Boss Bottled Infinite Eau De Parfum
+2023-02-08 14:24:16,787 INFO  [main] Selected Item price: $116.00
+2023-02-08 14:25:08,279 INFO  [main] Login page opened
+2023-02-08 14:25:10,492 INFO  [main] Login performed
+2023-02-08 14:25:14,904 INFO  [main] Selected Item name: 
+Hugo Boss Bottled Infinite Eau De Parfum
+2023-02-08 14:25:14,952 INFO  [main] Selected Item price: $116.00
+2023-02-08 14:25:37,408 INFO  [main] Login page opened
+2023-02-08 14:25:39,038 INFO  [main] Login performed
+2023-02-08 14:25:43,488 INFO  [main] Selected Item name: 
+Hugo Boss Bottled Infinite Eau De Parfum
+2023-02-08 14:25:43,584 INFO  [main] Selected Item price: $116.00
+2023-02-08 14:28:29,480 INFO  [main] Login page opened
+2023-02-08 14:28:31,163 INFO  [main] Login performed
+2023-02-08 14:28:36,699 INFO  [main] Selected Item name: 
+Hugo Boss Bottled Infinite Eau De Parfum
+2023-02-08 14:28:36,753 INFO  [main] Selected Item price: $116.00
+2023-02-08 14:30:08,636 INFO  [main] Login page opened
+2023-02-08 14:30:10,095 INFO  [main] Login performed
+2023-02-08 14:30:14,902 INFO  [main] Selected Item name: 
+Hugo Boss Bottled Infinite Eau De Parfum
+2023-02-08 14:30:14,986 INFO  [main] Selected Item price: $116.00
+2023-02-08 14:32:54,357 INFO  [main] Login page opened
+2023-02-08 14:32:55,903 INFO  [main] Login performed
+2023-02-08 14:33:00,381 INFO  [main] Selected Item name: 
+Hugo Boss Bottled Infinite Eau De Parfum
+2023-02-08 14:33:00,436 INFO  [main] Selected Item price: $116.00
+2023-02-08 14:33:45,624 INFO  [main] Login page opened
+2023-02-08 14:33:48,622 INFO  [main] Login performed
+2023-02-08 14:33:51,229 INFO  [main] Selected Item name: 
+Hugo Boss Bottled Infinite Eau De Parfum
+2023-02-08 14:33:51,283 INFO  [main] Selected Item price: $116.00
+2023-02-08 14:34:53,048 INFO  [main] Login page opened
+2023-02-08 14:34:56,431 INFO  [main] Login performed
+2023-02-08 14:34:58,984 INFO  [main] Selected Item name: 
+Hugo Boss Bottled Infinite Eau De Parfum
+2023-02-08 14:34:59,035 INFO  [main] Selected Item price: $116.00
+2023-02-08 14:35:36,318 INFO  [main] Login page opened
+2023-02-08 14:35:38,551 INFO  [main] Login performed
+2023-02-08 14:35:42,722 INFO  [main] Selected Item name: 
+Hugo Boss Bottled Infinite Eau De Parfum
+2023-02-08 14:35:42,796 INFO  [main] Selected Item price: $116.00
+2023-02-08 18:03:19,525 INFO  [main] Login page opened
+2023-02-08 18:03:23,859 INFO  [main] Login performed
+2023-02-08 18:03:26,015 INFO  [main] Selected Item name: 
+J'Adore Women Eau De Parfume Spray by Christian Dior, 1.7 Ounce
+2023-02-08 18:03:26,076 INFO  [main] Selected Item price: $64.00
+2023-02-08 18:05:11,527 INFO  [main] Login page opened
+2023-02-08 18:05:13,692 INFO  [main] Login performed
+2023-02-08 18:05:17,596 INFO  [main] Selected Item name: 
+J'Adore Women Eau De Parfume Spray by Christian Dior, 1.7 Ounce
+2023-02-08 18:05:17,678 INFO  [main] Selected Item price: $64.00
+2023-02-08 18:06:46,508 INFO  [main] Login page opened
+2023-02-08 18:06:49,795 INFO  [main] Login performed
+2023-02-08 18:06:52,360 INFO  [main] Selected Item name: 
+Hugo Boss Bottled Infinite Eau De Parfum
+2023-02-08 18:06:52,411 INFO  [main] Selected Item price: $116.00
+2023-02-08 18:09:31,862 INFO  [main] Login page opened
+2023-02-08 18:09:33,691 INFO  [main] Login performed
+2023-02-08 18:09:38,360 INFO  [main] Selected Item name: 
+Hugo Boss Bottled Infinite Eau De Parfum
+2023-02-08 18:09:38,407 INFO  [main] Selected Item price: $116.00
+2023-02-08 18:10:14,571 INFO  [main] Login page opened
+2023-02-08 18:10:17,787 INFO  [main] Login performed
+2023-02-08 18:10:20,079 INFO  [main] Selected Item name: 
+Hugo Boss Bottled Infinite Eau De Parfum
+2023-02-08 18:10:20,201 INFO  [main] Selected Item price: $116.00
+2023-02-08 18:14:54,301 INFO  [main] Login page opened
+2023-02-08 18:14:57,606 INFO  [main] Login performed
+2023-02-08 18:15:00,182 INFO  [main] Selected Item name: 
+Hugo Boss Bottled Infinite Eau De Parfum
+2023-02-08 18:15:00,251 INFO  [main] Selected Item price: $116.00
+2023-02-08 18:16:10,053 INFO  [main] Login page opened
+2023-02-08 18:16:14,172 INFO  [main] Login performed
+2023-02-08 18:16:16,576 INFO  [main] Selected Item name: 
+Hugo Boss Bottled Infinite Eau De Parfum
+2023-02-08 18:16:16,664 INFO  [main] Selected Item price: $116.00
+2023-02-08 18:36:02,039 INFO  [main] Login page opened
+2023-02-08 18:36:05,611 INFO  [main] Login performed
+2023-02-08 18:36:07,977 INFO  [main] Selected Item name: 
+Hugo Boss Bottled Infinite Eau De Parfum
+2023-02-08 18:36:08,029 INFO  [main] Selected Item price: $116.00
+2023-02-08 18:36:51,706 INFO  [main] Login page opened
+2023-02-08 18:36:55,621 INFO  [main] Login performed
+2023-02-08 18:36:57,983 INFO  [main] Selected Item name: 
+Hugo Boss Bottled Infinite Eau De Parfum
+2023-02-08 18:36:58,069 INFO  [main] Selected Item price: $116.00
+2023-02-08 18:49:07,506 INFO  [main] Login page opened
+2023-02-08 18:49:10,826 INFO  [main] Login performed
+2023-02-08 18:49:13,403 INFO  [main] Selected Item name: 
+Hugo Boss Bottled Infinite Eau De Parfum
+2023-02-08 18:49:13,451 INFO  [main] Selected Item price: $116.00
+2023-02-08 18:50:14,388 INFO  [main] Login page opened
+2023-02-08 18:50:15,624 INFO  [main] Login performed
+2023-02-08 18:50:20,879 INFO  [main] Selected Item name: 
+Hugo Boss Bottled Infinite Eau De Parfum
+2023-02-08 18:50:20,957 INFO  [main] Selected Item price: $116.00
+2023-02-08 18:53:28,758 INFO  [main] Login page opened
+2023-02-08 18:53:33,087 INFO  [main] Login performed
+2023-02-08 18:53:36,234 INFO  [main] Selected Item name: 
+Hugo Boss Bottled Infinite Eau De Parfum
+2023-02-08 18:53:36,285 INFO  [main] Selected Item price: $116.00
+2023-02-08 18:55:42,459 INFO  [main] Login page opened
+2023-02-08 18:55:44,324 INFO  [main] Login performed
+2023-02-08 18:55:54,758 INFO  [main] Login page opened
+2023-02-08 18:55:58,802 INFO  [main] Login performed
+2023-02-08 18:56:01,447 INFO  [main] Selected Item name: 
+Hugo Boss Bottled Infinite Eau De Parfum
+2023-02-08 18:56:01,503 INFO  [main] Selected Item price: $116.00
+2023-02-08 18:56:36,826 INFO  [main] Login page opened
+2023-02-08 18:56:41,009 INFO  [main] Login performed
+2023-02-08 18:56:47,011 INFO  [main] Login page opened
+2023-02-08 18:56:48,870 INFO  [main] Login performed
+2023-02-08 18:56:53,798 INFO  [main] Selected Item name: 
+Hugo Boss Bottled Infinite Eau De Parfum
+2023-02-08 18:56:53,848 INFO  [main] Selected Item price: $116.00
