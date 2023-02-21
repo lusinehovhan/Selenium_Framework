@@ -1,6 +1,7 @@
 package ta.test;
 
-import ta.driver.DriverSingleton;
+import ta.driver.CloseDriver;
+import ta.driver.DriverFactory;
 import ta.util.TestListener;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.AfterMethod;
@@ -18,12 +19,12 @@ public class CommonConditions {
     @BeforeMethod()
     public void setUp()
     {
-        driver = DriverSingleton.getDriver(TESTDATA_BROWSER);
+        driver = DriverFactory.getDriver(TESTDATA_BROWSER);
     }
 
     @AfterMethod(alwaysRun = true)
     public void stopBrowser()
     {
-        DriverSingleton.closeDriver();
+        CloseDriver.closeDriver();
     }
 }

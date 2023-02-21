@@ -3,7 +3,7 @@ package ta.test;
 import ta.model.User;
 import ta.page.CartPage;
 import ta.page.LoginPage;
-import ta.page.MainPage;
+import ta.page.HomePage;
 import ta.page.OrderItemPage;
 import ta.service.UserCreator;
 import org.testng.annotations.Test;
@@ -21,7 +21,7 @@ public class OrderItemTests extends CommonConditions {
     CartPage cartPage = new CartPage(driver);
     OrderItemPage orderItemPage = new OrderItemPage(driver);
     User testUser = UserCreator.withCredentialsFromProperty();
-    new MainPage(driver).clickSignInButton();
+    new HomePage(driver).clickSignInButton();
     String orderedItemPrice = new LoginPage(driver)
             .openPage()
             .login(testUser)

@@ -6,37 +6,31 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-public class DriverSingleton {
+public class DriverFactory {
 
   private static WebDriver driver;
 
-
-  private DriverSingleton() {
+  public DriverFactory() {
   }
 
   public static WebDriver getDriver(String browser) {
     if (null == driver) {
       switch (browser) {
-//        case "firefox": {
-//          WebDriverManager.firefoxdriver().setup();
-//          driver = new FirefoxDriver();
-//        }
+        case "firefox": {
+          WebDriverManager.firefoxdriver().setup();
+          driver = new FirefoxDriver();
+        }
         case "chrome": {
           WebDriverManager.chromedriver().setup();
           driver = new ChromeDriver();
         }
-//        case "edge": {
-//          WebDriverManager.edgedriver().setup();
-//          driver = new EdgeDriver();
-//        }
+        case "edge": {
+          WebDriverManager.edgedriver().setup();
+          driver = new EdgeDriver();
+        }
       }
       driver.manage().window().maximize();
     }
     return driver;
-  }
-
-  public static void closeDriver() {
-    driver.quit();
-    driver = null;
   }
 }

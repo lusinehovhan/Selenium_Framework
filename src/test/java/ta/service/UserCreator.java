@@ -10,8 +10,8 @@ public class UserCreator {
     public static final String TESTDATA_BROWSER ="chrome";
 
     public static User withCredentialsFromProperty(){
-        return new User(TestDataReader.getTestData(TESTDATA_USER_NAME),
-                TestDataReader.getTestData(TESTDATA_USER_EMAIL),
-                TestDataReader.getTestData(TESTDATA_USER_PASSWORD));
+        return new User(TestDataReaderSingleton.getInstance().getTestData(TESTDATA_USER_NAME),
+                TestDataReaderSingleton.getInstance().getTestData(TESTDATA_USER_EMAIL),
+                TestDataReaderSingleton.getInstance().getTestData(TESTDATA_USER_PASSWORD));
     }
 }

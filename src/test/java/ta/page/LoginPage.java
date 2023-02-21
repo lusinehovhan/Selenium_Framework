@@ -39,13 +39,13 @@ public class LoginPage extends AbstractPage
 		return this;
 	}
 
-	public MainPage login(User user)
+	public HomePage login(User user)
 	{
 		inputLogin.sendKeys(user.getUseremail());
 		buttonContinue.click();
 		inputPassword.sendKeys(user.getPassword());
 		buttonSignIn.click();
 		logger.info("Login performed");
-		return new MainPage(driver);
+		return new HomePage(driver);
 	}
 }

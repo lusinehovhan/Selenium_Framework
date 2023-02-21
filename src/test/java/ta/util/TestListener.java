@@ -1,6 +1,6 @@
 package ta.util;
 
-import ta.driver.DriverSingleton;
+import ta.driver.DriverFactory;
 import org.apache.commons.io.FileUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -50,7 +50,7 @@ public class TestListener implements ITestListener {
     }
 
     private void saveScreenshot(){
-        File screenCapture = ((TakesScreenshot)DriverSingleton
+        File screenCapture = ((TakesScreenshot) DriverFactory
                 .getDriver(TESTDATA_BROWSER))
                 .getScreenshotAs(OutputType.FILE);
         try {

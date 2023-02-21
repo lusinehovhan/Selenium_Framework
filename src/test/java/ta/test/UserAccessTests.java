@@ -2,7 +2,7 @@ package ta.test;
 
 import ta.model.User;
 import ta.page.LoginPage;
-import ta.page.MainPage;
+import ta.page.HomePage;
 import ta.service.UserCreator;
 import org.testng.annotations.Test;
 
@@ -15,7 +15,7 @@ public class UserAccessTests extends CommonConditions {
   @Test(groups ={"smoke"} )
   public void oneCanLoginAmazon() {
     User testUser = UserCreator.withCredentialsFromProperty();
-    new MainPage(driver).clickSignInButton();
+    new HomePage(driver).clickSignInButton();
     String loggedInUserName = new LoginPage(driver)
             .openPage()
             .login(testUser)

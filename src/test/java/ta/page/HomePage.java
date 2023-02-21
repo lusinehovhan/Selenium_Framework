@@ -8,7 +8,7 @@ import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-public class MainPage extends AbstractPage {
+public class HomePage extends AbstractPage {
   private final String BASE_URL = "https://www.amazon.com";
 
   @FindBy(xpath = "//div[@id='nav-signin-tooltip']//span")
@@ -25,7 +25,7 @@ public class MainPage extends AbstractPage {
 
   private final By linkLoggedInUserLocator = By.id("nav-link-accountList-nav-line-1");
 
-  public MainPage(WebDriver driver) {
+  public HomePage(WebDriver driver) {
     super(driver);
     PageFactory.initElements(this.driver, this);
   }
@@ -37,7 +37,7 @@ public class MainPage extends AbstractPage {
   }
 
   @Override
-  public MainPage openPage() {
+  public HomePage openPage() {
     driver.navigate().to(BASE_URL);
     return this;
   }
